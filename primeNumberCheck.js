@@ -5,3 +5,6 @@ function estPremier(n) {
     }
     return true;
 }
+
+
+// console.log(estPremier(7)); // true
